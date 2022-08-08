@@ -1,0 +1,16 @@
+body {
+
+    color: #000000;
+    background-color: rgb(255,255,255);
+  }
+ 
+ .tag {
+     font-family: tahoma; 
+     font-size: 1rem;
+    } 
+
+.jumbotron {
+    background-image: url("../images/bellyButton.jpg");
+    background-size: 100% 110%;
+    text-align: center;
+  }
